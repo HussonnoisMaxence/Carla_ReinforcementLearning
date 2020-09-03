@@ -1,7 +1,7 @@
 # Carla_ReinforcementLearning
 
 ## Look
-[![Alt text for your video](/images/content/4279611/af8d90618f52eb41dd6bdbee0604111a.jpg)](https://youtu.be/9VQCBIOvpvU)
+[![Alt text for your video](image.jpg)](https://youtu.be/9VQCBIOvpvU)
 
 
 ## Table of contents
