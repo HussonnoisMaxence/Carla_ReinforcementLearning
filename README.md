@@ -1,6 +1,6 @@
 # Carla_ReinforcementLearning
 
-## Look
+## Click on the image to watch the video
 [![Alt text for your video](image.jpg)](https://youtu.be/9VQCBIOvpvU)
 
 
