@@ -1,0 +1,36 @@
+
+
+#Main parameters
+episode_batch: 1000
+model_name: "Noisy"
+sampling_time: 1
+
+#Learner parameters
+gamma: 0.99
+batch_size: 64
+target_update: 50
+min_replay_size: 100
+
+#Actors parameters
+epsilon: 0.9
+epsilon_decay: 0.998
+epsilon_min: 0.01
+
+#Network parameters
+learning_rate: 0.0001
+out_channel1: 32
+out_channel2: 64
+hidden_size1: 128
+hidden_size2: 128
+optimizer: "Adam"
+
+
+#parameters replay buffer
+size_buffer: 80000
+
+seed : 2
+#Environment
+
+input_shape: [[150, 150, 1],8]
+
+n_actions: 3

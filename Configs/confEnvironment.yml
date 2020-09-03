@@ -1,0 +1,37 @@
+
+
+#Environment
+host: "localhost"
+port: [2000, 2004, 2008]
+town: "Town02"
+trajectory:  [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0]
+position: 89
+
+model_car: "model3"
+
+#Input 
+
+##Image's size
+IMG_WIDTH: 150
+IMG_HEIGHT: 150
+SHOW_PREVIEW: True
+#Input navigation
+VMAX: 100
+SMAXX: 250
+SMAXY: 220
+AMAX: 20 
+TIME_WP: 8
+#Reward Systeme
+##Waypoint related
+NAV_I: 20.0 #Distance between two waypoints
+radius_wp: 8
+
+
+
+#Action 
+frame_time: 0.7
+steer: 0.27
+throttle: 0.6
+
+
+
