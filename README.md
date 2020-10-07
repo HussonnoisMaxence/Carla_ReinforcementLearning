@@ -51,7 +51,7 @@ cd /opt/carla-simulator
 Get in the github repository
 Create the environment virtual. (It is just for the first time)
 ```
-conda env create -f ev.yml
+conda env create -f backup-ev.yml
 ```
 Activate the environment virtual
 ```
